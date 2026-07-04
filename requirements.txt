@@ -1,0 +1,10 @@
+pandas
+openpyxl
+xlrd
+dateparser
+ftfy
+pandera[pandas]
+price-parser
+streamlit
+scikit-learn
+google-genai

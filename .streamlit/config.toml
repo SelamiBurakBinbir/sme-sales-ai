@@ -1,0 +1,14 @@
+[server]
+headless = true
+maxUploadSize = 50
+maxMessageSize = 50
+fileWatcherType = "none"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"

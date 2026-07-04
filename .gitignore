@@ -1,0 +1,13 @@
+__pycache__/
+.agents/
+.venv/
+.ollama/
+.codex/
+app_uploads/
+verisetleri/
+.env
+*.env
+.streamlit/secrets.toml
+data_cleaning_debug.log
+mapping_debug.log
+agents.md
