@@ -1,3 +1,4 @@
+<img width="1920" height="2028" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_38_23" src="https://github.com/user-attachments/assets/98d26e1b-c411-464a-b7da-78d9f7d8e658" />
 # SME Sales AI
 
 SME Sales AI is a Streamlit-based sales analytics application designed for small and medium-sized businesses. It helps users upload product sales data, clean messy datasets, analyze sales performance, detect unusual revenue days, generate weekly revenue forecasts, and receive short AI-powered business insights.
@@ -90,6 +91,9 @@ This section shows:
 * Upload information
 
 The app can also restore the latest uploaded dataset after refresh if the stored upload still exists.
+
+![Uploading screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_38_23.png…]()
+![Uploading screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_40_51.png…]()
 
 ---
 
