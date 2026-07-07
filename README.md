@@ -92,7 +92,6 @@ This section shows:
 The app can also restore the latest uploaded dataset after refresh if the stored upload still exists.
 
 <img width="1920" height="2028" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_38_23" src="https://github.com/user-attachments/assets/2b78bb4f-051a-475b-bb80-11b4d19c5157" />
-<img width="1920" height="2053" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_40_51" src="https://github.com/user-attachments/assets/e8be7066-d9ce-4e7a-80de-b7d6d9576685" />
 
 ---
 
@@ -118,6 +117,8 @@ The app also checks whether the selected revenue column is consistent with expec
 quantity × unit_price
 quantity × unit_price × (1 - discount)
 ```
+
+<img width="1920" height="2053" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_40_51" src="https://github.com/user-attachments/assets/e8be7066-d9ce-4e7a-80de-b7d6d9576685" />
 
 ---
 
@@ -147,6 +148,10 @@ Cleaned CSV
 Cleaning report JSON
 ```
 
+<img width="1920" height="2296" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_43_41" src="https://github.com/user-attachments/assets/7cb454b8-d44b-4886-a5a9-9cd0325e74c4" />
+
+<img width="1920" height="1097" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_50_19" src="https://github.com/user-attachments/assets/f3b2b573-a80f-452f-a526-0cf57803adcd" />
+
 ---
 
 ### 4. Analysis Dashboard
@@ -169,6 +174,8 @@ It includes:
 
 The dashboard is divided into subsections so that only the selected part is rendered. This improves performance on larger datasets.
 
+<img width="1920" height="2465" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_45_10" src="https://github.com/user-attachments/assets/7f66526e-240e-45a7-a685-19a4cf65ee2d" />
+
 ---
 
 ### 5. Statistical Anomaly Detection
@@ -190,6 +197,8 @@ The anomaly section shows:
 * Top unusual revenue days table
 * Downloadable anomaly CSV
 
+<img width="1920" height="2608" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_47_00" src="https://github.com/user-attachments/assets/7c26f230-9bcc-4360-baa3-de245c5facd0" />
+
 ---
 
 ### 6. Pareto / ABC Product Analysis
@@ -208,6 +217,8 @@ C = remaining products
 
 This helps identify the most important products in the dataset.
 
+<img width="1920" height="2029" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_48_03" src="https://github.com/user-attachments/assets/44d4bc08-5cc3-40e0-bc3c-8bb6ba4357fe" />
+
 ---
 
 ### 7. What-if Simulator
@@ -224,6 +235,8 @@ Quantity change (%)
 The app then estimates how total revenue would change under that scenario.
 
 This is not a machine learning model. It is a simple business simulation based on the selected date range.
+
+<img width="1920" height="1186" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_48_51" src="https://github.com/user-attachments/assets/5d30db3b-7ec9-425f-9f8b-c53351b8b5f0" />
 
 ---
 
@@ -270,6 +283,8 @@ Forecast horizons available in the UI:
 
 The model generates a 12-week background forecast, and the selected horizon only changes the displayed slice. Changing the horizon does not rerun the model.
 
+<img width="1920" height="3312" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_52_04" src="https://github.com/user-attachments/assets/99861e43-8fc8-4ec0-97ec-1585c25e2c70" />
+
 ---
 
 ### 9. AI Insights
@@ -298,6 +313,8 @@ Risks and Anomalies
 Forecast Interpretation
 Recommended Actions
 ```
+
+<img width="1920" height="1924" alt="screencapture-selamiburakbinbir-sme-sales-ai-streamlit-app-2026-07-07-22_53_00" src="https://github.com/user-attachments/assets/5e8533b0-a9a6-4a81-aa26-229e9845f853" />
 
 ---
 
