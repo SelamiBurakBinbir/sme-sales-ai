@@ -15,6 +15,8 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 This dataset is used only for demonstration purposes to show how the app works with sample sales data.
 
+---
+
 ## What This Project Does
 
 Many small businesses keep their sales data in Excel or CSV files, but these files are often inconsistent, messy, or difficult to analyze directly. SME Sales AI turns raw sales data into a cleaner and more understandable business dashboard.
